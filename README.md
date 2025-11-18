@@ -61,7 +61,7 @@ _(Masukkan gambar di sini)_
 
 ---
 
-### **6. Widget Estetika & Animasi (Nilai Tambahan)**
+### **6. Widget Estetika & Animasi **
 - **Hero** — animasi transisi halus (ikon produk “terbang” ke halaman detail).  
 - **LinearGradient & RadialGradient** — efek gradasi pada background card atau ikon untuk tampilan modern.
 
