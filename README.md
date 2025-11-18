@@ -5,11 +5,16 @@
 
 ---
 
-## Screenshots  
-_(Masukkan gambar di sini)_  
-- gambar (ss)  
-- gambar (ss)  
-- gambar (ss)  
+## 📸 Screenshots  
+
+### **Home Screen**
+![Home](https://github.com/yuridazani/UTS-PM-MYSHOPMINI/blob/main/screenshoot/home.png)
+
+### **Product List Screen**
+![List](https://github.com/yuridazani/UTS-PM-MYSHOPMINI/blob/main/screenshoot/list.png)
+
+### **Product Detail Screen**
+![Detail](https://github.com/yuridazani/UTS-PM-MYSHOPMINI/blob/main/screenshoot/detail.png)
 
 ---
 
@@ -61,9 +66,8 @@ _(Masukkan gambar di sini)_
 
 ---
 
-### **6. Widget Estetika & Animasi **
-- **Hero** — animasi transisi halus (ikon produk “terbang” ke halaman detail).  
+### **6. Widget Estetika & Animasi**
+- **Hero** — animasi transisi halus.  
 - **LinearGradient & RadialGradient** — efek gradasi pada background card atau ikon untuk tampilan modern.
 
 ---
-
